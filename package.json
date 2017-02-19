@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "one.js",
- "scripts": { "start": "node index.js"
+ "scripts": { "start": "node one.js"
  },
   "repository": {
     "type": "git",
